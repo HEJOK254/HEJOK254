@@ -1,4 +1,5 @@
-### Hi there 👋
+### About Me
+I have no idea what I'm doing ![Thumb Up Emoji](thumbup.webp)
 
 <!--
 **HEJOK254/HEJOK254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
