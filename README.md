@@ -1,5 +1,5 @@
 ### About Me
-I have no idea what I'm doing <img src="thumbup.webp" alt="Thumb Up Emoji" width="64px" height="64px">
+I have no idea what I'm doing <img src="thumbup.webp" alt="Thumb Up Emoji" width="24px" height="24px">
 
 <!--
 **HEJOK254/HEJOK254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
