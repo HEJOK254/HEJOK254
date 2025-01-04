@@ -93,7 +93,8 @@ Classical music is a great one.
 - [Big Ol' Synced Joint](https://youtu.be/CBge8fYK40o?si=WrMUoFY2lmZ7Zjz4) is pretty cool in my opinion]
 - stop reading this and go watch some gildedguy or acerola my beloved
 - Favourite linux desktop environment: KDE Plasma probably
-- I am planning to try out Arch Linux
+- I am planning to try out Arch Linux\
+EDIT: I use arch btw (forgor to update this lmao)
 - nvim is such a good text editor
 - i forgot what i wanted to say again dang it
 - Ever since I started learning touch typing, my typing speed slowed down by like idk 40wpm maybe
