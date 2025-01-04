@@ -95,7 +95,8 @@ Classical music is a great one.
 - Favourite linux desktop environment: KDE Plasma probably
 - I am planning to try out Arch Linux\
 EDIT: I use arch btw (forgor to update this lmao)
-- nvim is such a good text editor
+- nvim is such a good text editor\
+ANOTHER EDIT: I am now addicted to neovim, arch linux, I use the aur and build my own packages (wow good job buddy, you're saying this like it's hard to type yay -S package-name or write a PKGBUILD while referencing the amazing arch wiki), and am slightly obsessed (get real) with cpus and other digital logic (sim no way guys) *along with a few other things*. HEY LOOK ITS A 4BIT CUSTOM ARCHITECTURE CPU WITH UHH COOL STUFF NO WAY (555 timer goes ding long ee ee bloop dee doop wooo) AAAAAAAAAAAA
 - i forgot what i wanted to say again dang it
 - Ever since I started learning touch typing, my typing speed slowed down by like idk 40wpm maybe
 - spending money gives me anxiety lmao
